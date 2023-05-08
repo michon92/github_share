@@ -1,6 +1,6 @@
 import json
 
-#this program's marging Zadanie_10.11_getnumber.py
+#this program combines Zadanie_10.11_getnumber.py
 # and Zadanie_10.11_loadnumber.py
 
 def get_number():
