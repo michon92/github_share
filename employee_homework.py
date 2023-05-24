@@ -8,4 +8,3 @@ class Employee:
     def give_raise(self, salary_raise=5000):
         """Określa podwyżkę dla pracownika"""
         self.salary += salary_raise
-
